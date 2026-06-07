@@ -1,4 +1,5 @@
-#Secure Short-Range Communication Using ESP-NOW AES Encryption on ESP32 SoC
+# Secure Short-Range Communication Using ESP-NOW AES Encryption on ESP32 SoC
+
 A lightweight, secure, and energy-efficient IoT communication system that combines a custom AES-based encryption mechanism, dynamic key generation, ESP-NOW wireless communication, and ESP32 deep sleep optimization for secure short-range data transmission.
 
 Overview
