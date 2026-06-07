@@ -1,7 +1,4 @@
-# 2023-2027-Mini-Projects
-B.E CSE (IOT &amp; CYBER SECURITY INCLUDING BLOCK CHAIN TECHNOLOGY) 2023-2027-Mini Projects
-
-Secure Short-Range Communication Using ESP-NOW AES Encryption on ESP32 SoC
+#Secure Short-Range Communication Using ESP-NOW AES Encryption on ESP32 SoC
 A lightweight, secure, and energy-efficient IoT communication system that combines a custom AES-based encryption mechanism, dynamic key generation, ESP-NOW wireless communication, and ESP32 deep sleep optimization for secure short-range data transmission.
 
 Overview
